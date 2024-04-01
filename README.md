@@ -30,4 +30,4 @@
   Becoming a Software Engineer has been an amazing journey, I love everything tech related so this has been a dream of mine since I was young!
   I started by diving deep into tech, simple things as learning to host my own minecraft severs at 12, building my first computer at 15. And,
   It just seemed to spiral from there! I am looking to put all my skill to use and find a place to expand that knowledge while utilizing what,
-  I have cultivated. Look forward to hearing from you!
+  I have cultivated. I greatly look forward to hearing from you!
