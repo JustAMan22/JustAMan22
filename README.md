@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a class=".portfolio-link" href="https://www.ginofarfaglia.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio%20Site-red" alt="Portfolio Site Link"/> </a>
+  <a class=".portfolio-link" href="mailto:ginodfarfaglia@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email%20Me-blue" alt="Portfolio Site Link"/> </a>
   <img src="https://komarev.com/ghpvc/?username=JustAMan22&style=flat-square&color=blue" alt=""/>
 </div>
   <h1>
